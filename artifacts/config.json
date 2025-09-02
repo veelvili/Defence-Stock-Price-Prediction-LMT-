@@ -1,0 +1,1 @@
+{"ticker": "LMT", "lookback": 60, "feature_cols": ["Open", "High", "Low", "Close", "Volume", "RSI", "MACD", "MACD_signal", "Stoch_K", "Stoch_D", "ATR", "OBV", "GPRD", "GPRD_ACT", "GPRD_THREAT", "GPRD_MA30", "GPRD_MA7"], "geo_cols": ["GPRD", "GPRD_ACT", "GPRD_THREAT", "GPRD_MA30", "GPRD_MA7"]}
